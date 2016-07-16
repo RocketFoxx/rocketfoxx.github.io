@@ -1,0 +1,20 @@
+.grn-btn {
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background-color: green;
+}
+
+.centrabox {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    height: 150px;  
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+#p {
+    @import 'https://fonts.googleapis.com/css?family=Dosis';
+    font-family: 'Dosis', sans-serif;
+}
