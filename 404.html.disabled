@@ -19,11 +19,12 @@ window.location = "http://creationfox.github.io/"
 </script>
 </head>
 <body>
+<br><br><br><br><br>
 <div class="well">
-  <h1 class="text-danger">Page Not Found.</h1>
-  Whoever dared give you that link hates you and wants to destroy you.
-  While we deal with them, why not try to find whatever you're looking for on our homepage.
-<input type="button" value="Homepage" onclick="goto()">
+  <h1 class="text-danger">Page Not Found.</h1><br>
+  Whoever dared give you that link hates you and wants to destroy you.<br>
+  While we deal with them, why not try to find whatever you're looking for on our homepage.<br>
+<input type="button" style="btn btn-default" value="Homepage" onclick="goto()"><br>
 </body>
 </div>
 </html>
