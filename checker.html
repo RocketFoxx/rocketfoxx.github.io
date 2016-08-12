@@ -1,26 +1,22 @@
 <!DOCTYPE html>
-<html>
 <head>
-  <title>Please Wait</title>
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-57394586-2', 'auto');
-  ga('send', 'pageview');
-
+<script type="text/javascript">
+function goto() {
+window.location = "http://creationfox.github.io/HTMLPlayground/"
+}
 </script>
-<script>
-  function redir() {
-    window.location.assign("http://creationfox.github.io/checkdone.html");
-  }
-  setTimeout(redir, 7000)
-</script>
+<link rel="stylesheet" type="text/css" href="test-splash.css">
 </head>
 <body>
-<h1>Please Wait...</h1><br>
-Do not close out at this time.
-</body>
-</html>
+<div>
+    <div class="msgbox">
+      <h3>Alert</h3>
+      <p>
+      This page is intended to evaluate the regional demographics of Cyrex Studios.<br>
+      This page will not collect any data other than your country, and all data will be securley erased after the project.<br>
+      <i></i>If you do not wish to proceed, you should understand that you are not required to do so.</i><br>
+      However, we strongly recommend that you proceed.
+      </p>
+      <input type="button" class="grn-btn" value="I understand, proceed." onclick="goto()">
+    </div>
+</div>
