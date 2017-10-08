@@ -1,4 +1,3 @@
-# CF-GH-Pages-Services
+# CreationFox github.io Host
 
-Backend services for my GitHub Pages/Jekyll Sites.
-####*There is really no code here that is usable outside of this repository. Please see my other repositories.*
+This is the hosting service for creationfox.gq. If you're seeing this message trying to access the site, it's probably down for maintainance. Please try again later.
