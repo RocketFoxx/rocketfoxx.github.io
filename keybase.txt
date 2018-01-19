@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/creationfox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://creationfox.gq
+  * I am creationfox (https://keybase.io/creationfox) on keybase.
+  * I have a public key with fingerprint 316A 58FA 1A74 75A7 26BA  6EF8 EDBD E797 5955 B7B8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101073d362f2438d467de55e142fbfb30ad2101455179680cf103fc0497447019cd0a",
+      "fingerprint": "316a58fa1a7475a726ba6ef8edbde7975955b7b8",
+      "host": "keybase.io",
+      "key_id": "edbde7975955b7b8",
+      "kid": "0101073d362f2438d467de55e142fbfb30ad2101455179680cf103fc0497447019cd0a",
+      "uid": "05b952ae6e607d15368912621e660719",
+      "username": "creationfox"
+    },
+    "service": {
+      "hostname": "creationfox.gq",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516323964,
+  "expire_in": 157680000,
+  "prev": "f9544a180c8cd1a20bd114e1007e86d0166e01422f52c0e95db6e69b950e3736",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJdSBRRGF1d05QWNcwKoWQoFBWdOzP3zs4Grg8L/Uo+qJCubHdm7qyT
+urPOjn+YkhIRJkRBEmt/SBAR2f+DvWQWlhnWVmAPiYgFJUla0kNIdcfqqR679+Fy
+v++cc79zuA9dTkdK3BOiXZ72Pj0ZN36/v8lRhX0H2xnZUNsYTztTR1YOUq+SiBWo
+01XGw7CAbpFXecRpnMC7VQGJKoGQAIHTZE3mWaxyFCNACEQJuVlFAyyvKawgiYIg
+skBSVBYzBYymh4LEDJt6yKKyPEAYujUMsCiIEIsckjEimpuoskpESYQShLIouymx
+1ojYDDqcjCOkUDdojV4CK+P9A/+f5276JQdlCXKYIIJYUQWQR24JcIgDBNECkGxg
+hJgh3EAoWjEJtnQjpBmtTEcBQxvNukLsbG0zf4MKg41UIGwalqEY9bRXa1lhj021
+2sI2toXIgd8qAVkPqTRLSmgmZoQKMB5AkYql27IAAsRzvISEAoa0hnWTBHQbAUXq
+kS77GdJMJTUJCgIG1LhbUQHmWFkFQCCAZUXiRioLECI0Ho7TIKewRIKqTM1LNAaW
+8CKPGNtXY8hgPIiOiYNUMqIHQ9hqMgnTMTLsT3DEpTgSV8Xbf8yRkpz25+cJIOlH
+eGxwT2dlv5ZX2RXwe99tLZm6kbWvdLB3/lLLjnLXzM7h9Lyc6c9fZxaHMotyBN9o
+duqwvuHyQterofCbjac/9j6r6K3KeRFrjE+qmfU5B7JzYzPZWItev7X63tqb19Zp
+L8m5maIHm/sTqweSGsaujPl7jqcYzsN9+c7Syb37L35ZOP/6rWeu/Fif69RAvn/9
+2dE7QhkzqSzt6kx2Hf0+2/k4dubAJj6jeznI90nP74Llecft4m1TS9/WpPu7kycC
+mZ+8RSNGz6P8cdb8kJu4pSRywhs9UnM1oXr3RMNiWXFGgWcy+L6iK+rzbAeto4c6
+imL1WXPTqf6qmsFoWsWFn98DOXc=
+=R50v
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/creationfox
+
+==================================================================
