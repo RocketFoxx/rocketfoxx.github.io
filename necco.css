@@ -1,1 +1,10 @@
-
+.centrabox {
+    border-radius: 25px;
+    border: 2px transparent;
+    padding: 20px; 
+    height: auto;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    text-color: #FFFFFF;
+}
