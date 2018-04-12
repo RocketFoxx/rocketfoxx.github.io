@@ -1,7 +1,7 @@
 .headingbar {
     border: 0.1in transparent;
-    top-padding: 0.3in; 
-    bottom-padding: 0.3in;
+    padding-top: 0.3in; 
+    padding-bottom: 0.3in;
     height: auto;
     margin: auto;
     width: 100%;
