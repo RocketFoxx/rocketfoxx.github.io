@@ -1,0 +1,42 @@
+body {
+  background-color: #FF0000;
+}
+.centrabox {
+    border-radius: 0.7in;
+    border: 0.1in transparent;
+    padding: 0.5in; 
+    height: auto;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    text-color: #FFFFFF;
+}
+p {
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+
+a {
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+
+h4 {
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
