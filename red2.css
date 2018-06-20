@@ -1,5 +1,5 @@
 body {
-  background-color: #555555;
+  background-color: #AA0000;
 }
 .centrabox {
     border-radius: 0.7in;
@@ -9,34 +9,34 @@ body {
     margin: auto;
     width: 50%;
     text-align: center;
-    text-color: #AA0000;
+    text-color: #FFFFFF;
 }
 p {
     font-family: sans-serif;
-    color: #AA0000;
+    color: #FFFFFF;
 }
 
 h1 {
     font-family: sans-serif;
-    color: #AA0000;
+    color: #FFFFFF;
 }
 
 a {
     font-family: sans-serif;
-    color: #AA0000;
+    color: #FFFFFF;
 }
 
 h2 {
     font-family: sans-serif;
-    color: #AA0000;
+    color: #FFFFFF;
 }
 
 h3 {
     font-family: sans-serif;
-    color: #AA0000;
+    color: #FFFFFF;
 }
 
 h4 {
     font-family: sans-serif;
-    color: #AA0000;
+    color: #FFFFFF;
 }
